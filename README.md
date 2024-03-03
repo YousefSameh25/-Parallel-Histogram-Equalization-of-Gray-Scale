@@ -9,12 +9,6 @@ black at the weakness intensity to white at the strongest
 <img src = https://user-images.githubusercontent.com/60978780/171876258-480ae271-14a4-4c4f-a5a0-21465123fa44.png>
 </p>
 
- # Features
- • Parallel Execution on any number of processors
-
-• Handles different sized images
-
-• Logs time of execution on the processers
 
 # Screenshots
 
